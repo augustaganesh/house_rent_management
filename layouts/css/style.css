@@ -1,0 +1,31 @@
+.logo h3 {
+    font-size: 32px;
+}
+
+.logo span {
+    color: blue;
+}
+
+
+/* @media(min-width: 768px){
+	.desktop-view{
+	
+}
+} */
+
+.fa-bars {
+    color: #fff;
+}
+
+.page-wrapper {
+    /*background: url('../../assets/img/bg/2.jpg') no-repeat center;*/
+    background-size: cover;
+}
+
+.login-content {
+    box-shadow: 0px 0px 25px #e7e7e7;
+}
+
+.carts a {
+    color: #000;
+}
